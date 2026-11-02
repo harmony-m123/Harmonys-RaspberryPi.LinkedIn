@@ -19,7 +19,7 @@ Software and Libraries:
 
 **How it works:**
 1. The Raspberry Pi Pico W connects to the MacBook through USB, in which most will require an adapter from USB to USB-C.
-2. The computer will recognize the Pico as a USB Human Interface Device (HID)keyboard.
+2. The computer will recognize the Pico as a USB Human Interface Device (HID) keyboard.
 3. The program sends commands to open Spotlight Search, types, then launches Terminal.
 4. It enters a command to open a URL, such as LinkedIn Profile, in a browser.
 
@@ -37,6 +37,6 @@ Through this personal project, I learned about USB HID communications and how co
 I learned about the project in light of my personal interest in Cybersecurity. This project demonstrates how easy it can be to use emulation to allow MacBooks to trust unknown USB devices and raises awareness about why we should be cautious when using unknown devices. 
 
 **Acknowledgment:**
-This project was inspired by Steven Hainley's LinkedIN BasUSB project: https://github.com/stevenhainley/Steves-LinkedIn-BadUSB. 
+This project was inspired by Steven Hainley's LinkedIn BadUSB project: https://github.com/stevenhainley/Steves-LinkedIn-BadUSB. 
 I used the general concept as a starting point, and then created a simplified implementation using CircuitPython and the Adafruit HID library. 
 
