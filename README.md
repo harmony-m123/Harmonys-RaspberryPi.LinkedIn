@@ -6,7 +6,7 @@ This is a personal project in which a Raspberry Pi Pico W and CircuitPython are 
 
 The Raspberry Pi Pico is programmed to send keyboard inputs to a MacBook, first opening Spotlight Search, launches Terminal, and then enters commands to open my LinkedIn profile in a search browser. 
 
-**What you need: **
+**What you need:**
 
 Hardware:
 - Raspberry Pi Pico W
