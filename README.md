@@ -2,6 +2,7 @@
 A Raspberry Pi Pico W project that uses USB Human Interface Device (HID) keyboard emulation to open a link, such as a LinkedIn profile, on macOS
 
 **Overview**
+
 This is a personal project in which a Raspberry Pi Pico W and CircuitPython are demonstrating an USB HID keyboard emulation, and when connected to a MacBook, the Pico acts as a keyboard and automatically enters commands to open a link, in my case my LinkedIn profile. 
 
 The Raspberry Pi Pico is programmed to send keyboard inputs to a MacBook, first opening Spotlight Search, launches Terminal, and then enters commands to open my LinkedIn profile in a search browser. 
